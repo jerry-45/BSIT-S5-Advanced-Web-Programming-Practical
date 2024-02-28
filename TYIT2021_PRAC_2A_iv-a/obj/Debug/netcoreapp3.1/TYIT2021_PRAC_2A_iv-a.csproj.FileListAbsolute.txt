@@ -1,0 +1,14 @@
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.exe
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.deps.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.runtimeconfig.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.runtimeconfig.dev.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.csproj.AssemblyReference.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.AssemblyInfoInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.AssemblyInfo.cs
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.csproj.CoreCompileInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_2A_iv-a\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_2A_iv-a.genruntimeconfig.cache

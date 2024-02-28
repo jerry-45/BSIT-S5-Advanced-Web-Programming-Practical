@@ -1,0 +1,13 @@
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.exe
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.deps.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.runtimeconfig.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.runtimeconfig.dev.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.AssemblyInfoInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.AssemblyInfo.cs
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.csproj.CoreCompileInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1C\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1C.genruntimeconfig.cache

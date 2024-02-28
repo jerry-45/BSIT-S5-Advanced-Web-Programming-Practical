@@ -1,0 +1,14 @@
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.exe
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.deps.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.runtimeconfig.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.runtimeconfig.dev.json
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\bin\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.csproj.AssemblyReference.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.AssemblyInfoInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.AssemblyInfo.cs
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.csproj.CoreCompileInputs.cache
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.dll
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.pdb
+D:\Study Materials\BNB\BSc. IT\Sem 5\03 Advanced Web Programming\Practicals\TYIT2021_PRAC_1B\obj\Debug\netcoreapp3.1\TYIT2021_PRAC_1B.genruntimeconfig.cache

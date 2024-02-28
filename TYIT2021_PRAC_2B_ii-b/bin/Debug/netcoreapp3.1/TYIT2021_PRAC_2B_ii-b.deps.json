@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TYIT2021_PRAC_2B_ii-b/1.0.0": {
+        "runtime": {
+          "TYIT2021_PRAC_2B_ii-b.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TYIT2021_PRAC_2B_ii-b/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
